@@ -10,7 +10,7 @@ function openSocial(type) {
       url = 'https://discord.com/users/797649044737622087';
       break;
     case 'twitter':
-      url = 'https://twitter.com/illusingxz';
+      url = 'https://twitter.com/necessarydemon';
       break;
     case 'youtube':
       url = 'https://www.youtube.com/channel/UC9eUCx86eid-3fCODeOPsgQ';
